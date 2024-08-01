@@ -106,14 +106,14 @@ err_h5p_plugin#:#Désolé, votre version du plugin H5P n'est pas prise en charge
 err_json_decode#:#ne peut pas décoder le JSON
 err_questions_file#:#Le fichier de questions ne peut pas être récupéré. Veuillez réessayer.
 err_questions_put#:#NOLEJ a renvoyé une erreur, veuillez vérifier vos données et réessayer.
-err_questions_save#:#Le fichier de questions ne peut pas être enregistré sur le disque. Réessayez, et si le problème persiste, demandez l'aide d'un administrateur.
+err_questions_save#:#Le fichier de questions ne peut pas être enregistré. Réessayez, et si le problème persiste, demandez l'aide d'un administrateur.
 err_review_not_ready#:#Vous n'avez pas encore terminé la révision.
 err_settings_file#:#Le fichier des paramètres d'activités ne peut pas être récupéré. Veuillez réessayer.
 err_settings_put#:#NOLEJ a renvoyé une erreur, veuillez vérifier vos données et réessayer.
-err_settings_save#:#Le fichier de configuration des activités ne peut pas être enregistré sur le disque. Réessayez et, si le problème persiste, demandez l'aide d'un administrateur.
+err_settings_save#:#Le fichier de configuration des activités ne peut pas être enregistré. Réessayez et, si le problème persiste, demandez l'aide d'un administrateur.
 err_summary_file#:#Le fichier de résumé ne peut être récupéré. Veuillez réessayer.
 err_summary_put#:#NOLEJ a renvoyé une erreur, veuillez vérifier vos données et réessayer.
-err_summary_save#:#Le fichier de résumé ne peut pas être sauvegardé sur le disque. Réessayez et, si le problème persiste, demandez l'aide d'un administrateur.
+err_summary_save#:#Le fichier de résumé ne peut pas être sauvegardé. Réessayez et, si le problème persiste, demandez l'aide d'un administrateur.
 err_tic_response#:#L'API NOLEJ a renvoyé une réponse non valide.
 err_transcription_not_ready#:#La transcription n'est pas encore prête, veuillez attendre un peu et vérifier à nouveau. Cela devrait prendre un dixième de la durée de la source ; si après ce délai vous n'avez pas reçu de notification, veuillez contacter un administrateur.
 fold_create_xnlj#:#Créer un objet NOLEJ
@@ -228,4 +228,3 @@ xnlj_new#:#Ajouter un objet NOLEJ
 xnlj_read#:#Lire : L'utilisateur a un accès en lecture aux objets NOLEJ
 xnlj_visible#:#Visible : L'objet NOLEJ est visible
 xnlj_write#:#Modifier les paramètres : L'utilisateur peut modifier les paramètres des objets NOLEJ
-
